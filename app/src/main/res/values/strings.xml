@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="user_entry_form">User Entry Form</string>
+    <string name="add_user">Add User</string>
+    <string name="welcome_message">Welcome to User App</string>
+    <string name="add_user_item">Add User</string>
+    <string name="show_user_list">Show User List</string>
+    <string name="search_user">Search User</string>
+</resources>
